@@ -5,7 +5,7 @@ Este é o meu GitHub, aonde crio repositórios para estudos e armazenar scripts
 
 ## Sobre mim
 
-Desenvolvedor especializado em **Banco de Dados**, **ETL** e **Análise de Dados**, com foco em criar soluções que sejam personalizadas e sob medida para os problemas de empresas envolvendo dados. Tenho por objetivo resolver problemas por meio da análise de dados, gerando insigths para o negócio e promovendo um ambiente de dados mais performático.
+Analista desenvolvedor especializado em **Banco de Dados**, **ETL** e **Análise de Dados**, com foco em criar soluções que sejam personalizadas e sob medida para os problemas de empresas envolvendo dados. Tenho por objetivo resolver problemas por meio da análise de dados, gerando insigths para o negócio e promovendo um ambiente de dados mais performático.
 
 ### 💼 O que faço:
 - Desenvolvimento de ETL  
